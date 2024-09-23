@@ -28,10 +28,5 @@
     "icon": "Compass",
     "name": "Wikipedia",
     "link": "https://www.wikipedia.org/"
-  },
-  {
-    "icon": "Compass",
-    "name": "Bilibili",
-    "link": "https://www.bilibili.com/"
   }
 ]
